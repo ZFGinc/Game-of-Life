@@ -1,0 +1,22 @@
+C:\Users\Kizai\Desktop\Учеба\Программирование\C#\2курс\LiveGame\bin\Debug\LiveGame.exe.config
+C:\Users\Kizai\Desktop\Учеба\Программирование\C#\2курс\LiveGame\bin\Debug\LiveGame.exe
+C:\Users\Kizai\Desktop\Учеба\Программирование\C#\2курс\LiveGame\bin\Debug\LiveGame.pdb
+C:\Users\Kizai\Desktop\Учеба\Программирование\C#\2курс\LiveGame\obj\Debug\LiveGame.csproj.AssemblyReference.cache
+C:\Users\Kizai\Desktop\Учеба\Программирование\C#\2курс\LiveGame\obj\Debug\LiveGame.Form1.resources
+C:\Users\Kizai\Desktop\Учеба\Программирование\C#\2курс\LiveGame\obj\Debug\LiveGame.Properties.Resources.resources
+C:\Users\Kizai\Desktop\Учеба\Программирование\C#\2курс\LiveGame\obj\Debug\LiveGame.csproj.GenerateResource.cache
+C:\Users\Kizai\Desktop\Учеба\Программирование\C#\2курс\LiveGame\obj\Debug\LiveGame.csproj.CoreCompileInputs.cache
+C:\Users\Kizai\Desktop\Учеба\Программирование\C#\2курс\LiveGame\obj\Debug\LiveGame.exe
+C:\Users\Kizai\Desktop\Учеба\Программирование\C#\2курс\LiveGame\obj\Debug\LiveGame.pdb
+C:\Users\Kizai\Desktop\Учеба\Программирование\C#\2курс\LiveGame\obj\Debug\LiveGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Программирование\2 курс\LiveGame\bin\Debug\LiveGame.exe.config
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Программирование\2 курс\LiveGame\bin\Debug\LiveGame.exe
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Программирование\2 курс\LiveGame\bin\Debug\LiveGame.pdb
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Программирование\2 курс\LiveGame\obj\Debug\LiveGame.csproj.AssemblyReference.cache
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Программирование\2 курс\LiveGame\obj\Debug\LiveGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Программирование\2 курс\LiveGame\obj\Debug\LiveGame.Form1.resources
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Программирование\2 курс\LiveGame\obj\Debug\LiveGame.Properties.Resources.resources
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Программирование\2 курс\LiveGame\obj\Debug\LiveGame.csproj.GenerateResource.cache
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Программирование\2 курс\LiveGame\obj\Debug\LiveGame.csproj.CoreCompileInputs.cache
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Программирование\2 курс\LiveGame\obj\Debug\LiveGame.exe
+C:\Users\Kizai.KIZAI-WIN\Desktop\Учеба\Программирование\2 курс\LiveGame\obj\Debug\LiveGame.pdb
